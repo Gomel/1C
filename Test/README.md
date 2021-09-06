@@ -13,12 +13,15 @@
 ![2](https://github.com/Gomel/1C/blob/main/Test/img/2.PNG)
 
 Первый набор данных
+
 ![2_1](https://github.com/Gomel/1C/blob/main/Test/img/2_1.PNG)
 
 Второй набор данных
+
 ![2_2](https://github.com/Gomel/1C/blob/main/Test/img/2_2.PNG)
 
 Связи между наборами данных
+
 ![2_3](https://github.com/Gomel/1C/blob/main/Test/img/2_3.PNG)
 
 Можно сделать связь еще по курсу, что бы переводить сумму документа, но в примере курс сделал через параметр
